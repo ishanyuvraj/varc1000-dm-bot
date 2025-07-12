@@ -12,8 +12,8 @@ def start(msg):
 
 Please join both channels to access the full VARC 1000 content:
 
-🔹 [Join VARC 1000 Channel](https://t.me/+Kiqzg-zQ-81hNThl)  
-🔹 [Join Elites Grid Channel](https://t.me/+Znyae4N7PUkxMDY9)
+🔹 [Join Elites Grid Channel](https://t.me/+Kiqzg-zQ-81hNThl)  
+🔹 [Join VARC 1000 Channel](https://t.me/+Znyae4N7PUkxMDY9)
 
 Once joined, you can message me here for any help! 😊
 """
